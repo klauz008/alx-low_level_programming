@@ -4,9 +4,7 @@
 /* more headers goes there */
 /**
  * main - Entry point
- * 
  * Description: 'program to print negative numbers, positive numbers and zero'
- * 
  * Return: Always 0 (Success)
  */
 /* betty style doc for function main goes there */
